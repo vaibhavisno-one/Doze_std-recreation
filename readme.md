@@ -1,1 +1,1 @@
-## I created this page to ccheck my gsap and animation skills
+## I created this page to check my gsap and animation skills
